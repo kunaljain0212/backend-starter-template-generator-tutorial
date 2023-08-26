@@ -1,3 +1,10 @@
+Hey everyone!
+This repository was referenced in [Best Node.js Bootstrapper | Logging, Linting, API Validation, Documentation etc. in 1 command!](https://youtu.be/gxNHErF59IY) YouTube video.
+Hope you enjoy quality of the content and have fun learning.
+
+Thanks for coming, cheers!
+
+# Original Readme
 # youtube
 
 This is for a youtube tutorial
